@@ -12,7 +12,7 @@ const NiggaPic = () => {
   <h3>Do Not Click On the Picture Below!</h3>
       <button onClick={ClickHandler}>
 
-        <img src="../../public/arash.jpg" alt="" />
+        <img src="./src/assets/arash.jpg" alt="" />
       </button>
     </div>
   )
