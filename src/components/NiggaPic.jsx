@@ -3,7 +3,7 @@ import React from 'react'
 
 const NiggaPic = () => {
     const ClickHandler=()=>{
-        alert("is that What u Want Nigga?")
+        alert("YOU BECAME NIGGA! WELCOME NIGGER LAND! YOUR TOUR LEADER IS ARASH KOONE PARASH")
     }
   return (
     <div>
