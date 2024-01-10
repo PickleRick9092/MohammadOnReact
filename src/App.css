@@ -1,5 +1,5 @@
 #root {
-  max-width: 1280px;
+
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
@@ -18,4 +18,22 @@ body{
 button{
   width: 50%;
   height:auto;
+}
+.Header {
+  height : 100px;
+  width: 100%;
+  background-color: darkcyan;
+  color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap:25px;
+  border-radius: 9px;
+}
+
+.Header a{
+  color:white;
+}
+.Header a:hover{
+color:black;
 }
